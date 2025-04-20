@@ -93,4 +93,4 @@ If you're learning Motoko or blockchain dev, happy to collaborate.
 
 Divyanshu Singh
 
-GitHub • LinkedIn
+[GitHub](https://github.com/divyanshu3020) • [LinkedIn](https://www.linkedin.com/in/divyanshu-singh-1b4924254/)
