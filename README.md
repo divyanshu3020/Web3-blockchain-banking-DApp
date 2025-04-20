@@ -27,6 +27,9 @@ A simple decentralized banking application built using **Motoko** and deployed o
 
 ## 📸 Demo
 
+![Screenshot 2025-04-20 171928](https://github.com/user-attachments/assets/9214912e-1140-474d-92ff-dbeaadd36d22)
+
+
 
 ---
 
